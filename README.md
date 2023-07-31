@@ -13,7 +13,7 @@
 <br>
 <br>
 ## CodeWars
-[![CodeWars](https://www.codewars.com/users/Mardon03/badges/large)]([https://www.codewars.com/users/Mardon03(https://www.codewars.com/users/Mardon03))
+![CodeWars](https://www.codewars.com/users/Mardon03/badges/large)]([https://www.codewars.com/users/Mardon03(https://www.codewars.com/users/Mardon03))
 
 
 ## 🌐 Socials:
