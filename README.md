@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center"><img align="center" src="https://www.atc.rs/wp-content/uploads/2022/04/haker.jpg"></p>
-<br>  
+<br>
 ## 🌐 Socials:
 <a href="https://instagram.com/mardon_s_m"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/Mardon1207"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
