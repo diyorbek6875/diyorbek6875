@@ -7,7 +7,7 @@
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <br>
-<p align="center"><img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" /></p>
+<p align="center"><img align="center" src="https://www.atc.rs/wp-content/uploads/2022/04/haker.jpg"/></p>
 <br>  
 ## 🌐 Socials:
 <a href="https://instagram.com/mardon_s_m"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
