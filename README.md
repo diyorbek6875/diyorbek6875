@@ -7,10 +7,12 @@
 <img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/gangnamtocat.png' width='300"'>
 <br>
 <br>
+<br>
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-<center>
-    <img src="https://www.atc.rs/wp-content/uploads/2022/04/haker.jpg">
-</center
+<br><br>
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+<br>
+<br>
 ## CodeWars
 [![CodeWars](https://www.codewars.com/users/Mardon03/badges/large)]([https://www.codewars.com/users/Mardon03(https://www.codewars.com/users/Mardon03))
 
