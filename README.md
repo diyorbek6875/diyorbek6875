@@ -12,9 +12,6 @@
 <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 <br>
 <br>
-## CodeWars
-![CodeWars](https://www.codewars.com/users/Mardon03/badges/large)]([https://www.codewars.com/users/Mardon03(https://www.codewars.com/users/Mardon03))
-
 
 ## 🌐 Socials:
 <a href="https://instagram.com/mardon_s_m"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
