@@ -51,9 +51,6 @@
 <!-- Tasodifiy iqtibos -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🎮 Snake Game Preview
-
-![Snake GIF](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
 
 
 
