@@ -51,9 +51,10 @@
 <!-- Tasodifiy iqtibos -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🎮 Mini Game: Play Snake
+## 🎮 Snake Game Preview
 
-[![Snake Game](https://img.shields.io/badge/Play-Snake-1f425f?style=for-the-badge&logo=github)](https://diyorbek6875.github.io/snake-game/)
+![Snake GIF](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
+
 
 
 ---
