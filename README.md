@@ -51,8 +51,10 @@
 <!-- Tasodifiy iqtibos -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- Tasodifiy fakt -->
-<img src="https://uselessfacts.jsph.pl/random.svg?language=en" alt="Random Fact" />
+## 🎮 Mini Game: Play Snake
+
+[![Snake Game](https://img.shields.io/badge/Play-Snake-1f425f?style=for-the-badge&logo=github)](https://diyorbek6875.github.io/snake-game/)
+
 
 ---
 
