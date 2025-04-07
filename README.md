@@ -41,6 +41,20 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@abdusalomovdiyorbek)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdusalomovdiyorbek6875)
 
+---
+
+## 🤓 Just for fun
+
+<!-- Hazil kartasi -->
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<!-- Tasodifiy iqtibos -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- Tasodifiy fakt -->
+<img src="https://uselessfacts.jsph.pl/random.svg?language=en" alt="Random Fact" />
+
+---
 
 ---
 
