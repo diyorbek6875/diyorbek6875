@@ -6,7 +6,9 @@
 </p>
 
 ---
+# 🐍 snike 
 
+<a href=#><img src="snike.svg"></a>
 ## 🧑‍💻 About Me
 
 🔹 I’m a software developer with a strong interest in **system programming**, **web development**, and **open-source**.  
